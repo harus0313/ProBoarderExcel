@@ -50,26 +50,26 @@ ProBoarder Excel は、マウスが必要なExcel操作をすべてキー入力�
 
 2. Excelを起動し、アドイン管理ダイアログを表示します。
 
-![](images/ExcelMenuDevelopment.png)
+![](ExcelMenuDevelopment.png)
 
-![](images/2020-10-12-17-10-49.png)
+![](2020-10-12-17-10-49.png)
 
 3. 参照をクリックし、ProBoarderExcel.xlam を選択します。
 
-![](images/2020-10-12-17-11-52.png)
+![](2020-10-12-17-11-52.png)
 
 4. OKボタンをクリックします。
 
 6. アドイン管理ダイアログに「Proboarderexcel」にチェックが入っていることを確認し、OKボタンをクリックします。
 
-![](images/2020-10-12-17-12-09.png)
+![](2020-10-12-17-12-09.png)
 
 
 7. ワークシート画面で「`Ctrl + D`」 を押して、ProBoarderExcelウィンドウを表示します。
 
-![](images/ExcelMenuDevelopment.png)
+![](ExcelMenuDevelopment.png)
 
-![](images/2020-10-12-17-12-33.png)
+![](2020-10-14-15-17-12.png)
 
 
 8. コマンドを入力して使用します。
@@ -90,9 +90,8 @@ ProBoarder Excel は、マウスが必要なExcel操作をすべてキー入力�
 定義されていないコマンドが入力された場合、何も動作しません。
 
 
-
-
 ### 3. コマンド一覧表示
 
 テキストボックスが選択された状態で、[ Alt + ↓ ] を入力すると、一覧が表示されます。
 
+![](2020-10-14-15-22-16.png)
